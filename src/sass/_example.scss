@@ -10,6 +10,8 @@ body {
 
 input,
 .loade-more {
+  font-size: 25px;
+  width: 400px;
   padding: 10px;
   font-size: 20px;
 }
@@ -35,10 +37,13 @@ input,
 }
 
 .button {
-  width: 250px;
+  font-size: 25px;
+  width: 400px;
   display: block;
   margin: 20px auto;
   padding: 10px 0;
+
+  border: 2px solid black;
 }
 
 .is-hidden {
