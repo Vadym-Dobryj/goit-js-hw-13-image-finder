@@ -2,7 +2,7 @@ import './sass/main.scss';
 import createMarkup from './templates/createMarkup.hbs';
 import { beforeSearchQueryBefore, fetchImages } from './apiService.js';
 
-
+// ================================
 function cleanGallery() {
   refs.gallery.innerHTML = '';
 }
